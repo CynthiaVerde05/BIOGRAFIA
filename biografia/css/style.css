@@ -1,0 +1,234 @@
+/* ------------------------- Estilo pagina principal "Biografia" -------------------------------- */
+header{
+    display: flex;
+    background-color: #D8ABB7;
+    height: 100px;
+}
+#logoBio{
+    width: 100px;
+    height: 80px;
+    display: inline-block; 
+    padding: 10px;
+}
+body
+{
+    background-color: #EDD5D8; 
+}
+#imgCynthia
+{
+    padding: 10px;
+    height: 300px;
+    width: 230px;
+}
+#fotoniñez
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+}
+#fotobebe1
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px; 
+}
+#fotobebe2
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+}
+.DatosCynthia
+{
+    display: flex;
+}
+.datosPersonales
+{
+    display: block;
+    width: 700px;
+    padding: 30px, 20px;
+}
+.biografia
+{
+    position: relative;
+    left: 330px;
+    top: 15px;
+    letter-spacing: 5px;
+    color: #A68069;
+    text-decoration: overline;
+}
+.historiabio
+{
+    text-align: justify;
+    width: 80%;
+}
+nav
+{   
+    background-color: black;
+    height: 50px;
+}
+.navegador
+{
+    display: flex; 
+}
+.misprimerospasos
+{
+    background-color:#D8ABB7;
+    height: 40px;
+    text-align: center;
+}
+.nombre
+{
+    text-align: center;
+}
+/*----------------------------------- Estilo pagina actualidad -----------------------------------*/
+
+
+
+
+
+/* -----------------------------------Estilo pagina Adolescencia -----------------------------------*/
+.fotofiv
+{
+    height: 150px;
+    width: 200px;
+}
+.kpopfoto
+{
+    height: 150px;
+    width: 200px;
+}
+.minecraft
+{
+    height: 150px;
+    width: 200px;
+}
+
+#logoadolescencia
+{
+    width: 100px;
+    height: 80px;
+    display: inline-block; 
+    padding: 10px;
+}
+#adolescencia
+{
+    position: relative;
+    left: 380px;
+    top: 20px;
+    letter-spacing: 5px;
+    color: #A68069;
+    text-decoration: overline;
+}
+#headadolescencia
+{
+    background-color: #D8ABB7;
+    height: 100px;
+}
+/* -----------------------------------Estilo pagina Infancia -----------------------------------*/
+.Jarana
+{
+    height: 150px;
+    width: 250px; 
+}
+.santafoto
+{
+    height: 150px;
+    width: 250px;
+}
+.fotopingo
+{
+    height: 150px;
+    width: 250px;
+}
+.espagueti
+{
+    height: 120px;
+    width: 200px;
+}
+.pulpo
+{
+    height: 130px;
+    width: 200px;
+}
+.hotcakes
+{
+    height: 120px;
+    width: 200px;
+}
+#logoinfancia
+{
+    width: 100px;
+    display: inline-block; 
+    height: 80px;
+    padding: 10px;
+}
+.infancia
+{
+    position: relative;
+    left: 450px;
+    top: 20px;
+    letter-spacing: 5px;
+    color: #A68069;
+    text-decoration: overline;
+}
+#headinfancia
+{
+    height: 100px;
+}
+.card
+{
+    display: flex;
+}
+
+#sectionImg{
+    display: flex;
+}
+
+
+/* -----------------------------------Estilo pagina primeros Anios -----------------------------------*/
+.fotofiesta
+{
+    height: 150px;
+    width: 250px;
+}
+.fiesta 
+{
+    height: 150px;
+    width: 200px;
+}
+.fotomia 
+{
+    height: 150px;
+    width: 200px;
+}
+#logoprimerosaños
+{
+        width: 100px;
+        display: inline-block; 
+        height: 80px;
+        padding: 10px;
+}
+#años
+{
+    position: relative;
+    left: 370px;
+    top: 20px;
+    letter-spacing: 5px;
+    color: #A68069;
+    text-decoration: overline;
+}
+/*------------------------*/
+.sesion
+{
+color: black;
+text-decoration: wavy;
+}
+.tabla1
+{
+    width: 500px;
+}
+.historia 
+{
+    background-color:#D8ABB7;
+}
